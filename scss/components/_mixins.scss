@@ -6,6 +6,8 @@
     background: linear-gradient(to right, rgba($primary, 0.95), rgba($secondary, 0.95));
 }
 
+
+
 // ABSOLUTE CENTER MIXIN
 
 @mixin absoluteCenter {
@@ -15,3 +17,9 @@
     transform: translate(-50%, -50%);
 }
 
+// TRANSITION
+
+@mixin transitionProperty {
+    transition-duration: 1s;
+    transition-property: all;
+}
