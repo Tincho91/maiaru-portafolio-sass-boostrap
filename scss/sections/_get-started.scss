@@ -28,3 +28,25 @@
         }
     }
 }
+
+
+// FORM
+
+.form {
+    padding: 3rem;
+
+    h4 {
+        font-size: 2rem;
+    }
+
+    button {
+        border: none;
+        color: $white;
+
+        a {
+            color: $white;
+            text-decoration: none;
+            text-transform: capitalize;
+        }
+    }
+}

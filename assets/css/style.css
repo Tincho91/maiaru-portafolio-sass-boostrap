@@ -11095,4 +11095,25 @@ h2 {
   font-size: 1.2rem;
 }
 
+.form {
+  padding: 3rem;
+}
+.form h4 {
+  font-size: 2rem;
+}
+.form button {
+  border: none;
+  color: #fff;
+}
+.form button a {
+  color: #fff;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+.footer {
+  padding-top: 1rem;
+  background-color: #212529;
+}
+
 /*# sourceMappingURL=style.css.map */
