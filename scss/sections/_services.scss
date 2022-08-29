@@ -41,7 +41,7 @@
     scroll-margin-top: 5rem;
 }
 
-@include media-breakpoint-down(sm) {
+@include media-breakpoint-down(md) {
     .row-2 {
         .elem-2 {
             order: 1;
