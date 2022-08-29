@@ -40,3 +40,15 @@
 #services {
     scroll-margin-top: 5rem;
 }
+
+@include media-breakpoint-up(sm) {
+    .row-2 {
+        .elem-2 {
+            order: 1;
+        }
+        
+        .elem-1 {
+            order: 2;
+        }
+    }
+}
