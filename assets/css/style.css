@@ -10902,9 +10902,9 @@ h2 {
   width: 100%;
   height: 100%;
 }
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .intro-section {
-    padding-top: 13rem;
+    padding-top: 15rem;
   }
 }
 
