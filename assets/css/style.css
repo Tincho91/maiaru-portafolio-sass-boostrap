@@ -10834,7 +10834,7 @@ h2 {
 
 .heading-line::after {
   content: "";
-  width: 2rem;
+  width: 2.3rem;
   padding-top: 0.5rem;
   height: 0.2rem;
   display: block;
@@ -10843,11 +10843,18 @@ h2 {
   margin-bottom: 1rem;
 }
 
+.services .text-start {
+  font-size: 1.2rem;
+}
+.services .description {
+  font-size: 1.2rem;
+}
+
 .display-3 {
   font-family: "Poppins", sans-serif;
 }
 .display-3--title {
-  font-size: 1.2rem;
+  font-size: 2rem;
   text-transform: capitalize;
   font-weight: 600;
   font-family: "Poppins", sans-serif;

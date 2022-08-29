@@ -45,13 +45,26 @@ h2 {
 
 .heading-line::after{
     content: "";
-    width: 2rem;
+    width: 2.3rem;
     padding-top: 0.5rem;
     height: 0.2rem;
     display: block;
     margin: 0 auto;
     background-color: $primary;
     margin-bottom: 1rem;
+}
+
+// SERVICES DESCRIPTION
+
+.services {
+
+    .text-start {
+        font-size: 1.2rem;
+    }
+
+    .description {
+        font-size: 1.2rem;
+    }
 }
 
 
@@ -61,7 +74,7 @@ h2 {
     font-family: 'Poppins', sans-serif;
 
     &--title {
-        font-size: 1.2rem;
+        font-size: 2rem;
         text-transform: capitalize;
         font-weight: 600;
         font-family: 'Poppins', sans-serif;
