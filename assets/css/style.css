@@ -11038,16 +11038,10 @@ h2 {
   text-transform: capitalize;
 }
 
-@media (min-width: 992px) {
-  #testimonials {
-    scroll-margin-top: -15rem;
-  }
+#faq {
+  scroll-margin-top: 5rem;
 }
-@media (min-width: 992px) {
-  #testimonials {
-    scroll-margin-top: -15rem;
-  }
-}
+
 .portfolio {
   padding: 4rem 0;
 }

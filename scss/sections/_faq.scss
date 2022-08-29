@@ -1,10 +1,6 @@
 @use '../custom' as *;
 @use '../components/mixins' as *;
 
-@include media-breakpoint-up(lg) {
-    #testimonials {
-        scroll-margin-top: -15rem;
-
-    }
-
+#faq {
+    scroll-margin-top: 5rem;
 }
