@@ -11047,6 +11047,9 @@ h2 {
 .portfolio button {
   text-transform: capitalize;
 }
+.portfolio button a {
+  text-decoration: none;
+}
 
 .portfolio-box {
   position: relative;
